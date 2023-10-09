@@ -1,0 +1,31 @@
+.container{
+    height: 60vh;
+    width: 60vw;
+    border-radius: 50%;
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(206, 204, 134);
+}
+
+.log-content{
+    border: 1px solid black;
+    width: 30vw;
+    margin:30px ;
+}
+
+.pw-content{
+    font-size: 1.2em;
+    font-weight: 400;
+    padding: 10px;
+}
+
+/* .btn-s{
+    height: 5vh;
+    width: 80px;
+    border: 1px solid green;
+    background: rgb(140, 210, 140);
+    
+} */

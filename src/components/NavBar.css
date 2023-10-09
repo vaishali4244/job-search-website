@@ -1,0 +1,18 @@
+.content-nav{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    background: rgb(174, 218, 174);
+    flex-direction:row;
+    justify-content: flex-end;
+}
+
+.navbar-nav{
+    /* display: flex; */
+    margin: auto 25px;
+    font-size: 1.3em;
+}
+
+a{
+    text-decoration: none;
+}
